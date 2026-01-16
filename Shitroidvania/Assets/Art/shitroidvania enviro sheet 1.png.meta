@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: d2703dbf4be12404d83d427ec49c5e98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -524590399499019507
+    second: shitroidvania enviro sheet 1_0
+  - first:
+      213: -5116965771894812544
+    second: shitroidvania enviro sheet 1_1
+  - first:
+      213: 7265811128286518174
+    second: shitroidvania enviro sheet 1_2
+  - first:
+      213: -7415107313897068517
+    second: shitroidvania enviro sheet 1_3
+  - first:
+      213: 3058247904065825640
+    second: shitroidvania enviro sheet 1_4
+  - first:
+      213: 6025009506142217043
+    second: shitroidvania enviro sheet 1_5
+  - first:
+      213: 2657774782641983101
+    second: shitroidvania enviro sheet 1_6
+  - first:
+      213: 6058986680637852530
+    second: shitroidvania enviro sheet 1_7
+  - first:
+      213: -3840639410227027785
+    second: shitroidvania enviro sheet 1_8
+  - first:
+      213: -780013068790171621
+    second: shitroidvania enviro sheet 1_9
+  - first:
+      213: 6501038321320512327
+    second: shitroidvania enviro sheet 1_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Environment_ForegroundRocks1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1775
+        width: 536
+        height: 268
+      alignment: 9
+      pivot: {x: 0.4961861, y: 0.072845004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bd741afc748b8f0800000000000000
+      internalID: -524590399499019507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_ForegroundRocks2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1793
+        width: 372
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4945047, y: 0.057432193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809066cdb2ecf8b0800000000000000
+      internalID: -5116965771894812544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_RoofToWall1
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1663
+        width: 423
+        height: 319
+      alignment: 9
+      pivot: {x: 0.014963858, y: 0.04234156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b199aa9b855d460800000000000000
+      internalID: 7265811128286518174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_Wall1
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1482
+        width: 362
+        height: 502
+      alignment: 9
+      pivot: {x: 0.06101088, y: 0.0076454435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a3c75f2f381990800000000000000
+      internalID: -7415107313897068517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_ForegroundRocks3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1481
+        width: 583
+        height: 283
+      alignment: 9
+      pivot: {x: 0.49649358, y: 0.088262446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2de4f344117a20800000000000000
+      internalID: 3058247904065825640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_ForegroundRocks4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1620
+        width: 172
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1091883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35365f559322d9350800000000000000
+      internalID: 6025009506142217043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_Ground
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1036
+        width: 980
+        height: 407
+      alignment: 9
+      pivot: {x: 0.0033735626, y: 0.98531437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ecd54551052e420800000000000000
+      internalID: 2657774782641983101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_Cliff1
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1117
+        width: 238
+        height: 326
+      alignment: 9
+      pivot: {x: 0.9766789, y: 0.9828214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b0e3eb848d51450800000000000000
+      internalID: 6058986680637852530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_Cliff2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1294
+        width: 101
+        height: 149
+      alignment: 9
+      pivot: {x: 0.9410086, y: 0.95838386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b06d031ece43bac0800000000000000
+      internalID: -3840639410227027785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_Platform1
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1195
+        width: 557
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9789081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1879922f36dc25f0800000000000000
+      internalID: -780013068790171621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Environment_Platform2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 785
+        width: 322
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4973249, y: 0.9680452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bc285c8e3583a50800000000000000
+      internalID: 6501038321320512327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_RoomExitGlow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 436
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b53fd551ed621748a6da219984eead1
+      internalID: -1379669147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 95959a4ceb015d346bd81845929ac637
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: -7415107313897068517
+      Sprite_Environment_Cliff1: 6058986680637852530
+      Sprite_Environment_Cliff2: -3840639410227027785
+      Sprite_Environment_ForegroundRocks1: -524590399499019507
+      Sprite_Environment_ForegroundRocks2: -5116965771894812544
+      Sprite_Environment_ForegroundRocks3: 3058247904065825640
+      Sprite_Environment_ForegroundRocks4: 6025009506142217043
+      Sprite_Environment_Ground: 2657774782641983101
+      Sprite_Environment_Platform1: -780013068790171621
+      Sprite_Environment_Platform2: 6501038321320512327
+      Sprite_Environment_RoofToWall1: 7265811128286518174
+      Sprite_Environment_Wall1: -7415107313897068517
+      Sprite_RoomExitGlow: -1379669147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
